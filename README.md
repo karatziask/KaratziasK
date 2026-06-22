@@ -3,21 +3,30 @@
 <p align="center">
   Full-stack developer with a focus on backend and DevOps &mdash; based in Cyprus<br/>
   Informatics & Telematics, Harokopio University of Athens (graduating July 2026)<br/>
-  Open to relocation to Sweden
+  Open to relocation to Sweden &nbsp;·&nbsp; Always keen to learn new languages and technologies
 </p>
 
 ---
 
-### Tech Stack
+### Focus & Interests
 
-**Languages & Frameworks**
-Java / Spring Boot &nbsp;·&nbsp; JavaScript / TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Python &nbsp;·&nbsp; HTML / CSS
+**Languages**
+Java / Spring Boot &nbsp;·&nbsp; Python
 
-**Data & Infrastructure**
-PostgreSQL &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Ansible &nbsp;·&nbsp; Linux &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; Git
+**DevOps & Infrastructure**
+Docker &nbsp;·&nbsp; Ansible &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; Linux &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; Bash / Shell Scripting &nbsp;·&nbsp; Git
 
-**Cloud & Services**
-Railway &nbsp;·&nbsp; Cloudflare (Pages, R2) &nbsp;·&nbsp; Neon &nbsp;·&nbsp; Twilio &nbsp;·&nbsp; SendGrid
+**Cloud**
+Railway &nbsp;·&nbsp; Cloudflare (Pages, R2) &nbsp;·&nbsp; Neon
+
+**Databases**
+PostgreSQL
+
+---
+
+### Also Worked With
+
+JavaScript / TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; HTML / CSS &nbsp;·&nbsp; C &nbsp;·&nbsp; Android &nbsp;·&nbsp; Hadoop / MapReduce &nbsp;·&nbsp; Jupyter Notebook &nbsp;·&nbsp; Machine Learning
 
 ---
 
@@ -39,3 +48,4 @@ Full-stack platform actively used by two event venues in Cyprus.
 ### Contact
 
 📫 [kyriakoskaratzia@gmail.com](mailto:kyriakoskaratzia@gmail.com)
+🔗 [linkedin.com/in/kyriakos-karatzias](https://www.linkedin.com/in/kyriakos-karatzias/)
